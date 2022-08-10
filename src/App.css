@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+.App {
+  
+  background-image: url("../public/image/ques1.png");
+  height: 98.5vh;
+  border: 8px solid #282c34;
+  margin: 5px;
+  padding: 5px;
+}
+
+
+

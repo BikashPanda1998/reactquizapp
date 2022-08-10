@@ -1,0 +1,10 @@
+.home_section{
+    width: 100%;
+    position: relative;
+    top: 60px;
+    min-height: calc(100vh-60vh);
+    background-color: #e7e7e7;
+    height: 300px;
+    border-bottom: 2px solid rgb(199 199 199);
+    
+}
